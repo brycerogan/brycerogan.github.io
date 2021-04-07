@@ -2,23 +2,18 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Hello!
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: about_photo.png
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Bryce Rogan, and I am currently a Quantitative Analyst for the Los Angeles Angels, the professional baseball team. The fun way I typically describe my job is that if you've seen the movie [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)), I do the work of Jonah Hill's character, but modernized with current machine learning, data science, and statistics. Prior to the Angels, I received a B.A. in Mathematics from Pomona College in 2018, where I completed a [couple](https://www.sciencedirect.com/science/article/abs/pii/S0927025619301223) [different](https://ieeexplore.ieee.org/abstract/document/7952639) [published research projects](/home/publications) using machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'll be intermittently posting work here, but in the meantime [here is my resume](./content/about/resume_rogan.pdf), if that's something you might be interested in, and feel free to contact me via email or otherwise!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
